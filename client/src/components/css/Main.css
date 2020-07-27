@@ -1,0 +1,19 @@
+
+.MainContainer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    height:100%;  
+    width: 100%;
+}
+
+.MainBody {
+    margin-top: 50px;
+    font-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
